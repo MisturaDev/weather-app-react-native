@@ -27,6 +27,20 @@ Open the app in **Expo Go**: https://expo.dev/accounts/misturadev/projects/weath
 
 ----
 
+## Tech Stack
+
+- **Framework:** React Native  
+- **Expo:** Managed workflow for cross-platform development  
+- **Programming Language:** TypeScript   
+- **API:** OpenWeather API for current weather and forecast data  
+- **State Management:** React Context API  
+- **HTTP Requests:** Axios  
+- **UI & Animation:** React Native components, LinearGradient, MaterialCommunityIcons, Animated API  
+- **Location:** Expo Location for geolocation  
+- **Version Control:** Git & GitHub  
+
+----
+
 ## Screenshots
 
 ### Home Screen
@@ -74,4 +88,4 @@ Open the app in **Expo Go**: https://expo.dev/accounts/misturadev/projects/weath
 
 **Mistura Ishola**
 
-**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/mistura-ishola)
+[LinkedIn](https://www.linkedin.com/in/mistura-ishola)

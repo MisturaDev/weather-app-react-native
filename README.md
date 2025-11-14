@@ -14,15 +14,15 @@ Open the app in Expo Go:https://expo.dev/accounts/misturadev/projects/weather-ap
 
 # Features
 
-Search weather by city name 🌆
+- Search weather by city name 🌆
 
-Fetch weather for current location 📍
+- Fetch weather for current location 📍
 
-5-day forecast at midday ☀️
+- 5-day forecast at midday ☀️
 
-Animated weather icons with gradients 🎨
+- Animated weather icons with gradients 🎨
 
-Weather tips based on conditions 💡
+- Weather tips based on conditions 💡
 
 ## Get started
 
@@ -38,20 +38,24 @@ Weather tips based on conditions 💡
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+   You can open the app in:
 
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
 
+3. Set up your API key:
 
+  - Rename app/config/apiKey.example.ts 
 
+  - Replace the dummy key with your OpenWeather API key:
 
+    ```
+    bash
+    export const OPENWEATHER_API_KEY = "YOUR_REAL_API_KEY_HERE";
+    ```
 
-## Join the community
+# Developer
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+**Mistura Ishola**

@@ -2,14 +2,13 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-A cross-platform mobile weather app built with React Native and Expo, displaying current weather and forecasts for your city or popular cities. 
+A cross-platform mobile weather app built with React Native and Expo, displaying current weather and forecasts for your city and popular cities. 
 Built by **Mistura Ishola** using the **OpenWeather API**
 
 
 # Live Demo
 
-Open the app in Expo Go: https://expo.dev/accounts/misturadev/projects/weather-app
-
+Open the app in **Expo Go**: https://expo.dev/accounts/misturadev/projects/weather-app
 
 
 # Features

@@ -8,7 +8,7 @@ Built by **Mistura Ishola** using the **OpenWeather API**
 
 # Live Demo
 
-Open the app in Expo Go:https://expo.dev/accounts/misturadev/projects/weather-app
+Open the app in Expo Go: https://expo.dev/accounts/misturadev/projects/weather-app
 
 
 
@@ -61,10 +61,9 @@ Open the app in Expo Go:https://expo.dev/accounts/misturadev/projects/weather-ap
 
   - Replace the dummy key with your OpenWeather API key:
 
-    ```
-    bash
-    export const OPENWEATHER_API_KEY = "YOUR_REAL_API_KEY_HERE";
-    ```
+   ```bash
+   export const OPENWEATHER_API_KEY = "YOUR_REAL_API_KEY_HERE";
+   ```
 
 # Developer
 

@@ -5,24 +5,27 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 A cross-platform mobile weather app built with React Native and Expo, displaying current weather and forecasts for your city and popular cities. 
 Built by **Mistura Ishola** using the **OpenWeather API**
 
+----
 
 # Live Demo
 
 Open the app in **Expo Go**: https://expo.dev/accounts/misturadev/projects/weather-app
 
+----
 
 # Features
 
-- Search weather by city name 🌆
+- Search weather by city name 
 
-- Fetch weather for current location 📍
+- Fetch weather for current location 
 
-- 5-day forecast at midday ☀️
+- 5-day forecast at midday 
 
-- Animated weather icons with gradients 🎨
+- Animated weather icons with gradients 
 
-- Weather tips based on conditions 💡
+- Weather tips based on conditions 
 
+----
 
 ## Screenshots
 
@@ -32,6 +35,7 @@ Open the app in **Expo Go**: https://expo.dev/accounts/misturadev/projects/weath
 ### Explore Screen
 ![Explore Screen](screenshots/explore.jpg)
 
+----
 
 ## Get started
 
@@ -64,6 +68,10 @@ Open the app in **Expo Go**: https://expo.dev/accounts/misturadev/projects/weath
    export const OPENWEATHER_API_KEY = "YOUR_REAL_API_KEY_HERE";
    ```
 
+----
+
 # Developer
 
 **Mistura Ishola**
+
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/mistura-ishola)

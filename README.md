@@ -67,7 +67,7 @@ Open the app in **Expo Go**: https://expo.dev/accounts/misturadev/projects/weath
 
    You can open the app in:
 
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [Expo Go](https://expo.dev/go)
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)

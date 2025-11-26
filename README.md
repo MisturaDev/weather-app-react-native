@@ -9,7 +9,7 @@ Built by **Mistura Ishola** using the **OpenWeather API**
 
 # Live Demo
 
-Open the app in **Expo Go**: https://expo.dev/accounts/misturadev/projects/weather-app
+Coming up...
 
 ----
 

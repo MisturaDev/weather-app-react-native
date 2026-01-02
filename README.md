@@ -7,12 +7,6 @@ Built by **Mistura Ishola** using the **OpenWeather API**
 
 ----
 
-# Live Demo
-
-Coming up...
-
-----
-
 # Features
 
 - Search weather by city name 

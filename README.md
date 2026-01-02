@@ -43,7 +43,7 @@ Built by **Mistura Ishola** using the **OpenWeather API**
 
 | Home (Phone) | Explore (Phone) |
 |--------------|----------------|
-| ![Home Screen](screenshots/home_phone.jpg) | ![Explore Screen](screenshots/explore_phone.jpg) |
+| ![Home Screen](screenshots/home_phone.jpeg) | ![Explore Screen](screenshots/explore_phone.jpeg) |
 
 
 ----

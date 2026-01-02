@@ -43,11 +43,10 @@ Coming up...
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](screenshots/home.jpg)
+| Home Screen | Explore Screen |
+|-------------|----------------|
+| ![Home Screen](screenshots/home.jpg) | ![Explore Screen](screenshots/explore.jpg) |
 
-### Explore Screen
-![Explore Screen](screenshots/explore.jpg)
 
 ----
 

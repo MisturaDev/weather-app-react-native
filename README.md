@@ -1,6 +1,48 @@
-# Welcome to your Expo app 👋
+# React Native Weather App 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+A cross-platform mobile weather application built with React Native and Expo, providing real-time weather information and 5-day forecasts for your current location or any city worldwide.
+Built by **Mistura Ishola** using the **OpenWeather API**
+
+----
+
+# Features
+
+- Search weather by city name 
+
+- Fetch weather for current location 
+
+- 5-day forecast at midday 
+
+- Animated weather icons with gradients 
+
+- Weather tips based on conditions 
+
+----
+
+## Tech Stack
+
+- **Framework:** React Native  
+- **Expo:** Managed workflow for cross-platform development  
+- **Programming Language:** TypeScript   
+- **API:** OpenWeather API for current weather and forecast data  
+- **State Management:** React Context API  
+- **HTTP Requests:** Axios  
+- **UI & Animation:** React Native components, LinearGradient, MaterialCommunityIcons, Animated API  
+- **Location:** Expo Location for geolocation  
+- **Version Control:** Git & GitHub  
+
+----
+
+## Screenshots
+
+| Home Screen | Explore Screen |
+|-------------|----------------|
+| ![Home Screen](screenshots/home.jpg) | ![Explore Screen](screenshots/explore.jpg) |
+
+
+----
 
 ## Get started
 
@@ -16,35 +58,27 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+   You can open the app in:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Expo Go](https://expo.dev/go)
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+3. Set up your API key:
 
-## Get a fresh project
+  - Rename app/config/apiKey.example.ts 
 
-When you're ready, run:
+  - Replace the dummy key with your OpenWeather API key:
 
-```bash
-npm run reset-project
-```
+   ```bash
+   export const OPENWEATHER_API_KEY = "YOUR_REAL_API_KEY_HERE";
+   ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+----
 
-## Learn more
+# Developer
 
-To learn more about developing your project with Expo, look at the following resources:
+**Mistura Ishola**
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+[LinkedIn](https://www.linkedin.com/in/mistura-ishola)

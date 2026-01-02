@@ -1,8 +1,7 @@
 import axios from "axios";
 import * as Location from "expo-location";
 import React, { createContext, ReactNode, useEffect, useState } from "react";
-import { OPENWEATHER_API_KEY as API_KEY } from "../config/apiKey.example";
-
+import { OPENWEATHER_API_KEY as API_KEY } from "../config/apikey";
 
 
 interface WeatherContextProps {

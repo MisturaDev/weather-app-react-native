@@ -7,7 +7,7 @@ import axios from 'axios';
 import { LinearGradient } from 'expo-linear-gradient';
 import React, { useContext, useEffect, useRef, useState } from 'react';
 import { ActivityIndicator, Animated, Easing, StyleSheet, TouchableOpacity, View } from 'react-native';
-import { OPENWEATHER_API_KEY as API_KEY } from "../config/apiKey.example";
+import { OPENWEATHER_API_KEY as API_KEY } from "../config/apikey";
 import { WeatherContext } from '../context/WeatherContext';
 
 
